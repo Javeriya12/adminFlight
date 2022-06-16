@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/adminFlight/static/css/main.3892b658.css",
+    "main.js": "/adminFlight/static/js/main.8788e71c.js",
+    "static/js/787.d3a60f05.chunk.js": "/adminFlight/static/js/787.d3a60f05.chunk.js",
+    "index.html": "/adminFlight/index.html",
+    "main.3892b658.css.map": "/adminFlight/static/css/main.3892b658.css.map",
+    "main.8788e71c.js.map": "/adminFlight/static/js/main.8788e71c.js.map",
+    "787.d3a60f05.chunk.js.map": "/adminFlight/static/js/787.d3a60f05.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3892b658.css",
+    "static/js/main.8788e71c.js"
+  ]
+}
